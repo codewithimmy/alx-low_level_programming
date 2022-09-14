@@ -3,7 +3,7 @@
 *main - Prints _putchar as a message.
 *Return: Always 0 (Success)
 **/
-int _putchar(char c)
+int main(void)
 {
 	int i = 0;
 	char word[8] = "_putchar";
